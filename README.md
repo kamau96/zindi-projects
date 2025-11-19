@@ -16,7 +16,6 @@ The goal of this workspace is to:
 
 ## 📁 Repository Structure
 
-```
 
 zindi-projects/
 │
@@ -32,7 +31,6 @@ zindi-projects/
 │
 └── README.md            # you're reading this
 
-````
 
 Each project contains its own README describing:
 - The problem statement  
@@ -42,6 +40,7 @@ Each project contains its own README describing:
 - Future improvements  
 
 ---
+```
 
 ## 🧰 Tools & Technologies
 
@@ -61,7 +60,7 @@ These projects typically use:
 1. Clone the repo  
    ```bash
    git clone https://github.com/<your-username>/zindi-projects.git
-````
+   ```
 
 2. Navigate to any project folder
 
@@ -98,6 +97,7 @@ but suggestions and improvements are always welcome through issues or pull reque
 ## 📝 License
 
 This repository is open-sourced under the MIT license.
+
 
 ```
 
