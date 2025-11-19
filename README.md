@@ -21,9 +21,8 @@ zindi-projects/
 │
 ├── project-name-1/
 │   ├── notebooks/
-│   ├── src/
-│   ├── data/            # optional (recommend .gitignore for large files)
-│   ├── models/
+│   ├── requirements.txt
+│   ├── documentation.pdf
 │   └── README.md
 │
 ├── project-name-2/
