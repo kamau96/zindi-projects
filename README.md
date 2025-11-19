@@ -1,6 +1,5 @@
 # **`README.md` for *zindi-projects***
 
-```markdown
 # Zindi Projects
 
 This repository contains my collection of Zindi data science projects.  
@@ -17,6 +16,7 @@ The goal of this workspace is to:
 ## 📁 Repository Structure
 
 
+```markdown
 zindi-projects/
 │
 ├── project-name-1/
@@ -30,6 +30,7 @@ zindi-projects/
 │   └── ...
 │
 └── README.md            # you're reading this
+```
 
 
 Each project contains its own README describing:
@@ -40,7 +41,6 @@ Each project contains its own README describing:
 - Future improvements  
 
 ---
-```
 
 ## 🧰 Tools & Technologies
 
@@ -97,11 +97,3 @@ but suggestions and improvements are always welcome through issues or pull reque
 ## 📝 License
 
 This repository is open-sourced under the MIT license.
-
-
-```
-
----
-
-If you want, I can also generate **a template README** for each individual project folder so you can reuse it across all challenges.
-```
