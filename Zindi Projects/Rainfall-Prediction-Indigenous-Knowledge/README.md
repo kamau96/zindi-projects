@@ -133,13 +133,3 @@ rainfall-ik/
 MIT License.
 
 ```
-
----
-
-If you want, I can also generate:
-
-✅ `requirements.txt`  
-✅ `.gitignore` for a clean ML project  
-✅ The project’s GitHub description text  
-Just tell me!
-```
