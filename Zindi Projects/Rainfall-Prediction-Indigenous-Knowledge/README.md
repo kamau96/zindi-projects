@@ -107,7 +107,6 @@ Key evaluation steps include:
 * Experiment with class-balancing strategies (already attempted)
 * Compare XGBoost with LightGBM or CatBoost (already attempted)
 * Introduce temporal features (lags, trends)
-* Build a simple inference script or web dashboard
 
 ---
 ## 📜 License
